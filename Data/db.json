@@ -1,0 +1,18 @@
+{
+    "blogs": [
+        {
+            "title":"My Love",
+            "Othor": "Justin MUKUBA",
+            "YearRealesed": "1992",
+            "id": 1
+            
+        },
+        {
+            "title":"My Heart",
+            "Othor": "Jeannine MUKUBA",
+            "YearRealesed": "1914",
+            "id": 2
+            
+        }
+    ]
+}
